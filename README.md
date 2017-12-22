@@ -1,2 +1,2 @@
 # quotes
-quotes json for codepen project
+quotes json for quote machine  project on codepen
